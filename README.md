@@ -11,8 +11,6 @@ uses 0x Swap API to swap WETH → BUY_TOKEN,
 
 (optional) sends purchased tokens to a burn address (0x...dead),
 
-(optional) supports a transparent dev “tip” (OFF by default).
-
 ⚠️ Security: NEVER share your private key. Use at your own risk.
 
 Requirements
